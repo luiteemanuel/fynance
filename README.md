@@ -14,5 +14,5 @@ Projeto Feito para Extrair dados Financeiros da Bolsa de Valores do brasil e Rea
 * plotly.express 
 * plotly.subplots 
 
-# juntamente com a LIB yfinance para extrair os dados da bolsa de valores
+Juntamente com a LIB yfinance para extrair os dados da bolsa de valores
 
