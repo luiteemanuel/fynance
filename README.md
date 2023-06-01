@@ -3,16 +3,16 @@ Projeto Feito para Extrair dados Financeiros da Bolsa de Valores do brasil e Rea
 
 
 # LIBS tratamento de dados
-###  pandas 
-###  pandas_datareader
-###  numpy 
+* pandas 
+* pandas_datareader
+* numpy 
 
 # Analise de dados #
-## seaborn  
-##  matplotlib.pyplot
-##  plotly.graph_objects 
-##  plotly.express 
-##  plotly.subplots 
+* seaborn  
+* matplotlib.pyplot
+* plotly.graph_objects 
+* plotly.express 
+* plotly.subplots 
 
 # juntamente com a LIB yfinance para extrair os dados da bolsa de valores
 
